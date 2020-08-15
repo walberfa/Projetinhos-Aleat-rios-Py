@@ -1,3 +1,7 @@
+#Atividade da disciplina de Fundamentos da Programação, S1 do curso de Ciência da Computação
+#O objetivo era criar um menu com 4 opções: soma, multiplicar matrizes, multiplicar listas e achar números primos
+
+
 def menu ():
   x = int(input("\n1-Soma\n2-Multiplicar matrizes\n3-Multiplicação de listas\n4-Numeros primos\n0-Sair\nDigite:"))
 
